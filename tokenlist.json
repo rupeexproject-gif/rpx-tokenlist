@@ -1,21 +1,21 @@
 {
- "name": "RPX Token List",
- "logoURI": "https://raw.githubusercontent.com/rupeexproject-gif/rpx-tokenlist/main/03741269-AB07-4D93-981D-634CF48C30C7.png",
- "keywords": ["rpx","rupeex"],
- "timestamp": "2026-03-16T00:00:00Z",
- "version": {
-   "major": 1,
-   "minor": 0,
-   "patch": 0
- },
- "tokens": [
-   {
-     "chainId": 56,
-     "address": "0x8203BD620077cBB7Bf1C30A5Abc0668d70286D6d",
-     "name": "Rupeex",
-     "symbol": "RPX",
-     "decimals": 18,
-     "logoURI": "https://raw.githubusercontent.com/rupeexproject-gif/rpx-tokenlist/main/03741269-AB07-4D93-981D-634CF48C30C7.png"
-   }
- ]
+  "name": "RPX Token List",
+  "timestamp": "2026-03-16T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": ["rpx","rupeex"],
+  "logoURI": "https://raw.githubusercontent.com/rupeexproject-gif/rpx-tokenlist/main/03741269-AB07-4D93-981D-634CF48C30C7.png",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x8203BD620077cBB7Bf1C30A5Abc0668d70286D6d",
+      "name": "Rupeex",
+      "symbol": "RPX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rupeexproject-gif/rpx-tokenlist/main/03741269-AB07-4D93-981D-634CF48C30C7.png"
+    }
+  ]
 }
